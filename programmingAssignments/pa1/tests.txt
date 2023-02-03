@@ -1,0 +1,191 @@
+INPUT
+100
+200
+300
+3.8
+2.4
+2.6
+125
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $172.37
+Selling all of Coffee B makes: $217.73
+Selling all of Coffee C makes: $353.81
+Selling all of the Coffee makes: $743.9
+***Valentine's Day Special***
+Enter total orders: Charge $623.7 for Red Velvet Mocha
+Need 113.4kg of Coffee A and 56.7kg of Coffee B
+Charge $617.46 for Valentine's Day Frapp
+Need 141.75kg of Coffee B and 85.05kg of Coffee C
+Charge $456.92 for Lover's Spice
+Need 25.51kg of Coffee A and 122.47kg of Coffee C
+Need 2 packages of cups and 25 additional cup(s)
+
+INPUT
+200
+300
+400
+2.56
+3.22
+1.56
+232
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $232.24
+Selling all of Coffee B makes: $438.17
+Selling all of Coffee C makes: $283.04
+Selling all of the Coffee makes: $953.46
+***Valentine's Day Special***
+Enter total orders: Charge $965.42 for Red Velvet Mocha
+Need 210.47kg of Coffee A and 105.23kg of Coffee B
+Charge $1202.73 for Valentine's Day Frapp
+Need 263.09kg of Coffee B and 157.85kg of Coffee C
+Charge $523.41 for Lover's Spice
+Need 47.36kg of Coffee A and 227.31kg of Coffee C
+Need 4 packages of cups and 32 additional cup(s)
+
+INPUT
+10
+10
+10
+1
+1
+1
+10
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $4.54
+Selling all of Coffee B makes: $4.54
+Selling all of Coffee C makes: $4.54
+Selling all of the Coffee makes: $13.61
+***Valentine's Day Special***
+Enter total orders: Charge $14.97 for Red Velvet Mocha
+Need 9.07kg of Coffee A and 4.54kg of Coffee B
+Charge $19.96 for Valentine's Day Frapp
+Need 11.34kg of Coffee B and 6.8kg of Coffee C
+Charge $13.02 for Lover's Spice
+Need 2.04kg of Coffee A and 9.8kg of Coffee C
+Need 0 packages of cups and 10 additional cup(s)
+
+INPUT
+1
+1
+1
+1
+1
+1
+1
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $0.45
+Selling all of Coffee B makes: $0.45
+Selling all of Coffee C makes: $0.45
+Selling all of the Coffee makes: $1.36
+***Valentine's Day Special***
+Enter total orders: Charge $1.5 for Red Velvet Mocha
+Need 0.91kg of Coffee A and 0.45kg of Coffee B
+Charge $2.0 for Valentine's Day Frapp
+Need 1.13kg of Coffee B and 0.68kg of Coffee C
+Charge $1.3 for Lover's Spice
+Need 0.2kg of Coffee A and 0.98kg of Coffee C
+Need 0 packages of cups and 1 additional cup(s)
+
+INPUT
+1000
+1000
+1000
+1.1
+1.2
+1.3
+4000
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $498.96
+Selling all of Coffee B makes: $544.32
+Selling all of Coffee C makes: $589.68
+Selling all of the Coffee makes: $1632.95
+***Valentine's Day Special***
+Enter total orders: Charge $6785.81 for Red Velvet Mocha
+Need 3628.78kg of Coffee A and 1814.39kg of Coffee B
+Charge $9879.34 for Valentine's Day Frapp
+Need 4535.97kg of Coffee B and 2721.58kg of Coffee C
+Charge $6592.22 for Lover's Spice
+Need 816.47kg of Coffee A and 3919.08kg of Coffee C
+Need 80 packages of cups and 0 additional cup(s)
+
+INPUT
+100
+200
+300
+1
+1
+1
+100
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $45.36
+Selling all of Coffee B makes: $90.72
+Selling all of Coffee C makes: $136.08
+Selling all of the Coffee makes: $272.16
+***Valentine's Day Special***
+Enter total orders: Charge $149.69 for Red Velvet Mocha
+Need 90.72kg of Coffee A and 45.36kg of Coffee B
+Charge $199.58 for Valentine's Day Frapp
+Need 113.4kg of Coffee B and 68.04kg of Coffee C
+Charge $130.23 for Lover's Spice
+Need 20.41kg of Coffee A and 97.98kg of Coffee C
+Need 2 packages of cups and 0 additional cup(s)
+
+INPUT
+10000
+20000
+30000
+100
+200
+300
+10000
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $453597.02
+Selling all of Coffee B makes: $1814388.1
+Selling all of Coffee C makes: $4082373.22
+Selling all of the Coffee makes: $6350358.34
+***Valentine's Day Special***
+Enter total orders: Charge $1995826.91 for Red Velvet Mocha
+Need 9071.94kg of Coffee A and 4535.97kg of Coffee B
+Charge $4740088.91 for Valentine's Day Frapp
+Need 11339.93kg of Coffee B and 6803.96kg of Coffee C
+Charge $3457770.12 for Lover's Spice
+Need 2041.19kg of Coffee A and 9797.7kg of Coffee C
+Need 200 packages of cups and 0 additional cup(s)
+
+INPUT
+100
+100
+100
+1.245
+2.123
+3.456
+123453
+
+OUTPUT
+Welcome to Mael's Calculator
+Total Coffee A Pounds: Total Coffee B Pounds: Total Coffee C Pounds: Coffee A Price/Kg: Coffee B Price/Kg: Coffee C Price/Kg: Selling all of Coffee A makes: $56.47
+Selling all of Coffee B makes: $96.3
+Selling all of Coffee C makes: $156.76
+Selling all of the Coffee makes: $309.53
+***Valentine's Day Special***
+Enter total orders: Charge $284150.21 for Red Velvet Mocha
+Need 111995.83kg of Coffee A and 55997.91kg of Coffee B
+Charge $646252.32 for Valentine's Day Frapp
+Need 139994.78kg of Coffee B and 83996.87kg of Coffee C
+Charge $494334.52 for Lover's Spice
+Need 25199.06kg of Coffee A and 120955.49kg of Coffee C
+Need 2469 packages of cups and 3 additional cup(s)
