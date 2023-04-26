@@ -1,0 +1,4 @@
+Alex: 22.09
+Emily: 21.26
+David: 25.31
+Michael: 24.49

@@ -8,5 +8,5 @@ def calc_years(initial_balance, rate, target):
     return years
 
 
-# years = calc_years(5000, 0.15, 10000)
-# print("years: ", years)
+years = calc_years(5000, 0.15, 10000)
+print("years: ", years)

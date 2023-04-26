@@ -1,0 +1,14 @@
+Alice: 22.04
+Bob: 25.25
+Charlie: 21.97
+David: 27.17
+Eve: 20.7
+Frank: 24.49
+Grace: 20.44
+Henry: 26.23
+Ivy: 21.97
+Jack: 24.34
+Kate: 23.94
+Liam: 21.8
+Mia: 21.05
+Noah: 22.72
